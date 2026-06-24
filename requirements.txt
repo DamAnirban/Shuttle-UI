@@ -1,0 +1,11 @@
+# Master (Operator PC) — Python 3 standard library only
+# tkinter is bundled with most Python 3 distributions
+
+# Robot (ROS side) — install via your ROS distribution, not pip:
+#   rospy
+#   actionlib
+#   tf
+#   move_base_msgs
+#   geometry_msgs
+#
+# Tested on ROS Melodic / Noetic with Python 3
